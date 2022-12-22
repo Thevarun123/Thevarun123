@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)
+![MasterHead](https://technowebsolutions.in/wp-content/uploads/2019/05/software-development-banner-1-1500x450.jpg)
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
 <h3 align="center">A tech enthusiast, dedicated towards software development</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif" >
