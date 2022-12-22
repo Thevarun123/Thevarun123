@@ -1,7 +1,7 @@
 ![MasterHead](https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=)
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
 <h3 align="center">A tech enthusiast, dedicated towards software development</h3>
-<img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif" >
+<img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevarun123&label=Profile%20views&color=0e75b6&style=flat" alt="thevarun123" /> </p>
 
